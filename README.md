@@ -3,6 +3,7 @@
 <h4 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=14&letterSpacing=2px&duration=3200&pause=1000&color=EBEBFF&background=2C3E50&vCenter=true&width=870&height=50&separator=%3C&lines=+++%F0%9F%A7%A0+I+think+more+than+I+says,+and+I+feel+much+more+than+I+let+on.%3C%F0%9F%94%8E+I+may+be+in+pieces,+but+I+never+stop+analyzing+each+fragment.%3C%F0%9F%8C%8E+I+don%27t+try+to+fit+into+the+world;+I+take+it+apart+to+understand+why.%3C%F0%9F%92%96+I+have+a+heart+armored+in+logic,+but+it+keeps+beating+for+ideas+and+people+who+deserve+it.%3C%F0%9F%93%9C+My+greatest+conflict+is+not+between+good+and+evil,+but+between+clarity+and+the+chaos+within+me.%3C%F0%9F%94%AE+I+see+structures+where+others+see+confusion,+and+patterns+where+for+others+there+is+only+noise.%3C%F0%9F%9A%80+Where+confusion+reigns,+I+trace+the+order+beneath." />
 </h4>
+
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=santiagolaiton&exclude_days=Sun&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200&background=45%2C2C3E50%2C48C9B0" alt="GitHub Streak"/>
 </div>
@@ -32,10 +33,6 @@
   &emsp;
   <a href="https://wa.me/573188643135" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="27" width="50"/>
-  </a>
-  &emsp;
-  <a href="https://t.me/ArtDaSak" target="blank">
-    <img align="center" src="https://img.icons8.com/sf-ultralight-filled/512/4D4D4D/telegram.png" alt="Telegram" width="47"/>
   </a>
 </div>
 <p align="center">
